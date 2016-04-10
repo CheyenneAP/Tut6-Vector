@@ -31,7 +31,7 @@ int main(){
 	}
 
 	// displays the unsorted vector
-	cout << "unsorted array" << endl;
+	cout << "unsorted vector" << endl;
 	cout << endl;
 	disp(vec);
 	cout <<"______________________________________________________________________________" <<endl;
@@ -42,7 +42,7 @@ int main(){
 	// reverses the order of the numbers in the vector to display in descending order
 	reverse(vec.begin(), vec.end());
 	// displays the sorted vector in descending order
-	cout << "sorted array" << endl;
+	cout << "sorted vector" << endl;
 	cout << endl;
     disp(vec);
 	cout << "______________________________________________________________________________" << endl;
