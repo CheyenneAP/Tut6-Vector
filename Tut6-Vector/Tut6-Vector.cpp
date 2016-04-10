@@ -1,5 +1,4 @@
 // Cheyenne Pillay
-// 214513360
 // Tut6-Vector
 
 
@@ -59,3 +58,4 @@ void disp(vector <int> vc){
 	}
 	cout << endl;
 }
+// end of program 
