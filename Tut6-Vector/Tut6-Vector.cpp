@@ -50,7 +50,7 @@ int main(){
 
 }
 
-// method to dispay the vector
+// method to display the vector
 void disp(vector <int> vc){
 	for (int i = 0; i < 20; i++) {
 		cout << vc.at(i) << " , ";
